@@ -1,7 +1,7 @@
-# dev-environment
+# dev-environment-docker
 
 ## Getting Started
-1. You need [Docker] and [docker-compose] installed. 
+1. You need [Docker] (https://docs.docker.com/get-started/get-docker/) and [docker-compose] (https://docs.docker.com/compose/install/) installed. 
 2. You can use this in Unix/Linux
 3. Clone this repository 
 4. Run `cd dev-environment`
